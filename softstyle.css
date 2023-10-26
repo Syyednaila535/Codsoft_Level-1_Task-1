@@ -772,7 +772,7 @@ footer span a:hover {
         #about{
   	     background: black;
   	     font-family: "Ubuntu", sans-serif;
-  		 height: 100vh;
+  		 height: 100%;
        }
         #about #section{
           display: flex;
@@ -797,8 +797,8 @@ footer span a:hover {
     	padding: 20px;
        }
        .photo img{
-	   height: 200px;
-	   width: 200px;
+	   height: 150px;
+	   width: 150px;
   	   padding: 10px;
   	   border-radius: 50%;
   	   transition: 0.5s all;
